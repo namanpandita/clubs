@@ -14,4 +14,6 @@ class Club extends Model
     protected $fillable = [
         'name', 'image_url'
     ];
+
+    //New Commets
 }
